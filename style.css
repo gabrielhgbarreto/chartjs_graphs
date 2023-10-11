@@ -1,0 +1,9 @@
+.div_graficos{
+    display: flex;
+}
+
+.div_graficos div{
+    width: 600px;
+    margin-right: 100px;
+    margin: auto;
+}
